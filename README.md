@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mythology, Psychology, Computer science, Artificial Intelligence.
 - 🌱 I’m currently learning Python and giving hands to learn ai,
 - 💞️ By the way I am nurture to this field and learning from the begining.
-- 📫 How to reach me through gmail shresth369777@gmail.com
+- 📫 How to reach me through gmail ping.mrigankyashvardhan@gmail.com
 
 <!---
 MrigankYashvardhan/MrigankYashvardhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
